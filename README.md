@@ -1,2 +1,2 @@
 # projetos-ini
-Primeiros Projetos o Git/GitHub  
+Primeiros Projetos utilizando o Git/GitHub  
